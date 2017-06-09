@@ -32,6 +32,7 @@
 		AFA281C81EE7175800C34F31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AFA281CA1EE7175800C34F31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AFA281D01EE7185900C34F31 /* RxSwiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxSwiftPlayground.playground; sourceTree = "<group>"; };
+		AFAEC49F1EEA702A008DDE24 /* FilterPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilterPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 			children = (
 				AFA281BE1EE7175800C34F31 /* AppDelegate.swift */,
 				AFA281C01EE7175800C34F31 /* ViewController.swift */,
+				AFAEC49F1EEA702A008DDE24 /* FilterPlayground.playground */,
 				AF3F65911EE8464A007CFF96 /* VariablesPlayground.playground */,
 				AF3F65901EE83EFD007CFF96 /* ReplaySubjectsPlayground.playground */,
 				AF3F658F1EE83748007CFF96 /* BehaviorSubjectsPlayground.playground */,
